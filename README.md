@@ -1,4 +1,4 @@
-# node-dir-to-tree
+# node-dir-to-tree [![Build Status](https://travis-ci.org/sebastianseilund/node-dir-to-tree.svg?branch=master)](https://travis-ci.org/sebastianseilund/node-dir-to-tree)
 
 Traverses a directory and returns a tree.
 
