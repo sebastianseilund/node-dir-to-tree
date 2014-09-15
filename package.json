@@ -1,6 +1,6 @@
 {
   "name": "dir-to-tree",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Returns tree objects",
   "main": "index.js",
   "scripts": {
