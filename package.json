@@ -4,7 +4,7 @@
   "description": "Returns tree objects",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test --recursive"
+    "test": "mocha test --recursive"
   },
   "author": "Sebastian Seilund",
   "license": "MIT",
@@ -12,5 +12,16 @@
     "mkdirp": "^0.5.0",
     "mocha": "^1.21.4",
     "rimraf": "^2.2.8"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebastianseilund/node-dir-to-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastianseilund/node-dir-to-tree/issues"
+  },
+  "homepage": "https://github.com/sebastianseilund/node-dir-to-tree"
 }
